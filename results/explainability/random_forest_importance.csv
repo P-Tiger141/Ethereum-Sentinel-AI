@@ -1,0 +1,12 @@
+feature,mean_absolute_shap
+total_transactions,0.18056876380842599
+transactions_received,0.10740183038963172
+total_incoming_value,0.06512030427269792
+average_incoming_value,0.03984395035962844
+transactions_initiated,0.038873038464806615
+total_transaction_value,0.024501755793900116
+total_outgoing_value,0.019468519828911113
+average_transaction_value,0.010574829275604908
+average_outgoing_value,0.010211487261316519
+last_outgoing_transaction_value,0.007209947534108362
+last_incoming_transaction_value,0.003250560951016558

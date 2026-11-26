@@ -1,0 +1,12 @@
+{
+    "Random Forest": {
+        "roc_auc": 0.9975657894736842,
+        "pr_auc": 0.9105042277410698,
+        "phishing_recall": 0.95
+    },
+    "XGBoost": {
+        "roc_auc": 0.9978947368421053,
+        "pr_auc": 0.9108904363180681,
+        "phishing_recall": 1.0
+    }
+}
